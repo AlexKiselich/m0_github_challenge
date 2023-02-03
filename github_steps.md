@@ -5,3 +5,7 @@ Describe in your own words how to establish a connection between a local reposit
 -You need to make sure the connection is initialized in your terminal. You can check to see if they are connected by typing 
 
 ```git remote -v'``` 
+
+1. Add 
+2. A
+3. List
